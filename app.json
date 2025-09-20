@@ -3,6 +3,7 @@
     "name": "Ultimate Cigar Companion",
     "slug": "ultimate-cigar-companion",
     "version": "1.0.0",
+    "sdkVersion": "54.0.0",
     "orientation": "portrait",
     "icon": "./assets/logo.svg",
     "userInterfaceStyle": "light",
