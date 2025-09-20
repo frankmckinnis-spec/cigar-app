@@ -1,0 +1,16 @@
+# Ultimate Cigar Companion Logo Placeholder
+
+This is a placeholder for the app logo. In a real implementation, you would replace this with an actual PNG image file.
+
+For now, you can:
+1. Create a simple logo using any image editor
+2. Save it as logo.png in this assets folder
+3. The logo should be at least 1024x1024 pixels for best results
+
+Suggested logo design:
+- Brown/tan color scheme
+- Cigar or smoking-related icon
+- "Ultimate Cigar Companion" text
+- Professional, clean design
+
+The app will work without a logo, but having one improves the user experience.
